@@ -1,1 +1,2 @@
 a new file created on b1
+new txt file for b2
